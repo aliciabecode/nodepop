@@ -1,4 +1,9 @@
 
+# DevOps
+
+Ejercicio 1: http://nodepop.theholistictherapy.com/
+Ejercicio 2: http://18.224.231.1/
+
 # NodePop
 
 Api for the iOS/Android apps.
