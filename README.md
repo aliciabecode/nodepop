@@ -2,7 +2,8 @@
 # DevOps
 
 Ejercicio 1: http://nodepop.theholistictherapy.com/
-Ejercicio 2: http://18.224.198.202
+
+Ejercicio 2: http://18.218.77.134/
 
 # NodePop
 
